@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-l,HBO
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CvIEqLsPaf78oa7vGTuil3WUQJu6_olD23-rQka89MOjXCINXd0knKZRJnRSird1yMjxRSdRMrl-yAQ4z6k_AVOTEj0Us88eIFx7U9EvW7C4ilumDYop2dPHnX75FvXTQpktIB0Md0YqInTNN_1q537S_GdkTXFY0Ghd3moJIftt65LBAhwr-h5X-1Jb1vFeWzlFQa_Y_yE5Umm6uE2SbaMx5zvAVkCrCKe9UByZhRMLQQBUJUN4PZszSsyZ7523IPGIwi4vOn6eEEFs1G-jWp4L-PSMUX3_jlkJQKs3_3d7faISYpbEwKsMpp7NFI_5JSR2y_5456gfxVj5CA9kfYHwc2wbWI1AKYwHzhFOZm2_zSt1qs3Jf3Cbwo0Pa4C2jKwICvIh3XQoKmO3N8g5eeVm7sChgXYPwhDRdTLayy5jLhBlpYcUNSx522aOTVNc8xNA_rNLoZMkFoY4aMovxVmGwf-SJG3hlq_BwNbBz8rFRtquCbijh29rJ5vH_bDFV0cLeQDmfTlEe1q0SPgHzUr2EYSGJiSRa3mYHiqUY4FHCBIDgERhU6DV3l9bsQMyPrVjG1dHBDvwKiGVvjHcP4sBmykEEXJ42cwP-XIWTFdHZKBowc_5xVviwB2ioPiWYCIgRSiUmRWejsIcQdF7ynNIcTacnxkwu32-dHkDYWjTwmbJHgifu0PuXJfXfTI9UUeVWrsiy96wnwi3Z041Lk-ukA1aunmimzsZDMNf23Iez2LP4N2QrNP-91B6FW1zd49Ph54w2py--fqzTuouvKiWd9PhJnpc0hAtSbrpwDyrbsW04NUPDAIq4xcIEXiDf_7svPMaDHvn_k_r0s1MsSFIxiABKglldS13ZXN0LTIw5gQ.m3u8
+
+#EXTINF:-l,HBO 2
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CvYEhhzDliWH6yQIfAU0qsNZyL4TYZyp1c8eQDkJQ7DEkmYb_Fr1hGZpE4WPOIqj7jKoXd_-jwRoZpENsI54SOUVj8252DGI9CjR_Sx2GWVvK_Q_Z3D-QA0TSz5vuL6HX7-JXCQ56qlm-W5uH0WawhB5p8sSBG_kMPl3YV30HpHVEbmtbmq9pHDn2VpNuxSlLB-Sj7JKeMl-QYNStCg-XAx9xDWMXxnzHaMGMQaMXrT2DmqzaEDFXsX4k4yVY1xXC9Bx8rApPJuK2RuyDoNJC1oW4UOxneY4G9SX6Ay_c2nCb8vMTCKOAqVPCeXAbXz-Fvy4vEkrjWE9yX5-K8GfBEX13V1Hk-ZAJpyl7MQwgJxVFk8zjJzbziBzxX5OOL1F7lLUHfGdPjOWt9U-g6KkyXZTHYIasVKUrAQKKpaefMczMUx_bOKVlRrXqzDx6S0UiVhaORWOD6SpKtSakryxvprii47HQDDNU5ApY-YEBTgGVPcIim82Gk1zkfBBtgDelLJiYngUY9d2WG3ofZEk2XJ713ZfVThB3PDUqztKRqgzRMZ2Vudb1nC6vZWrl8Z3JdMexnRXSH2GWJ4SrjcL9JfNTXOaSR5XtkwVgukemuUxRKVHu7WrKVW3lzfHfHKqA9wOlqA_bLXnupPMihBtOys5HVApAAVGR01zPNGA_NT9mQoVwCzqVcnBCPX98njEldbUMy4h5-u98WJ-mzfkFGGyjle6YHuX0yYaudMrlMFSfDaXPdOEiXudahN--Eg-L71BgqQERLlZ-XRkrE3c7k5e0eWIFBKhsb1imk4XbEOA6VoeB26GHy2D6hArX3RSQOHdrELHP-zXGgyBS6z34jccqrZVSqkgASoJZXUtd2VzdC0yMOYE.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Top Cine Latam
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=top-cine-latam&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Saber mas
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=saber-mas&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Tu Cine Latam
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=tu-cine-latam&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Chiquilines
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=chiquilines&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Juntos
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=juntos&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Cine Sureno
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=cine-sureno&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Cine Real
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=cine-real-latam&f=.m3u8
+
+#EXTINF:-1  group-title="DistroRegio" , Horrorfy
+https://regioplay.xyz/php/SR_REGIO_229022_/distroregio.php?token=SrRegio&c=horrorfy&f=.m3u8
+
+#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1VVRrptTwKLO6Wn_ov9bwtsoxBWAGevY0/view?usp=sharing", ENERGEEK
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+
+#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1NZRqe2hR3qYkjJ5HJI9lJy7edtMS8MA-/view?usp=sharing", ENERGEEK 2
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1  group-title="Otros Canales" tvg-logo="https://drive.google.com/file/d/1Axj9qz_QQBzdI2YMUChl7uiH_ip_z1_9/view?usp=sharing", ENERGEEK 3
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+
+#EXTINF:-1  group-title="Otros Canales", LATINO KIDS
+https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
+
+#EXTINF:-1   group-title="Otros Canales", WOW TV
+https://regioplay.xyz/php/SR_REGIO_229022_/wowtv.php?f=.m3u8
+
+#EXTINF:-1 group-title="Otros Canales", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 group-title="Otros Canales", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 group-title="Otros Canales", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="Otros Canales", Telemundo NY
+https://regioplay.xyz/php/SR_REGIO_229022_/telemundo.php?token=SrRegio&c=telemundoNY&f=.m3u8
